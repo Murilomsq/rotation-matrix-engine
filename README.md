@@ -1,6 +1,6 @@
 # Rotation matrix: A solution to a mutiple domain problem
 
-Note: This solution might be costy when it comes to an engine that stores rotations as Quaternions
+- *This solution might be costy when it comes to an engine that stores rotations as Quaternions and is stated here for educational purposes*
 
 When working with a character that animates in in a 2D freeform, with a fixed camera, the chacater animation **must** take in count where the player is looking to animate correctly.
 
